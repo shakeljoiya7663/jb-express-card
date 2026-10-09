@@ -1,0 +1,2 @@
+import 'package:flutter/material.dart';
+void main(){runApp(MaterialApp(home: Scaffold(appBar: AppBar(title: Text("JB EXPRESS 1"), backgroundColor: Colors.green[800]), body: Center(child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [Icon(Icons.local_shipping, size: 60, color: Colors.green), SizedBox(height: 10), Text("JB EXPRESS 1", style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold)), Text("Muhammad Shakeel - Chachro"), SizedBox(height: 20), Text("App Ban Gaya!")]))))));}
